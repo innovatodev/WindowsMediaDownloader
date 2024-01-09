@@ -1,11 +1,11 @@
 @{
     RootModule        = 'WindowsMediaDownloader.psm1'
-    ModuleVersion     = '1.0.0'
+    ModuleVersion     = '1.0.1'
     GUID              = '405aeed1-3c66-44d1-9e35-7ed4886317bb'
     Author            = 'innovatodev'
     CompanyName       = 'innovatodev'
     Copyright         = '(c) innovatodev. All rights reserved.'
-    Description       = 'Script to download any version of Windows on https://uupdump.net/.'
+    Description       = 'Script to download any version of Windows on https://massgrave.dev/genuine-installation-media.html.'
     PowerShellVersion = '5.1'
     FunctionsToExport = @(
         'Invoke-WindowsMediaDownloader'
