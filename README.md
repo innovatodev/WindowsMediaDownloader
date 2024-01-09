@@ -33,3 +33,9 @@ Asks to select a language from the availables list and downloads latest consumer
 `Invoke-WindowsMediaDownloader -OS 'server' -Type '2022'`
 
 Asks to select a language from the availables list and downloads latest 2022 version of Windows Server
+
+<div align="center">
+
+![showcase1](media/showcase1.png)
+
+</div>
