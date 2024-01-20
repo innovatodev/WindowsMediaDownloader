@@ -1,6 +1,6 @@
 # WindowsMediaDownloader
 
-Module to download Windows ISOs from https://massgrave.dev/genuine-installation-media.html
+Module to download Windows ISOs from https://massgrave.dev/genuine-installation-media.html (Thanks [Massgravel](https://github.com/massgravel))
 
 Can download :
 
